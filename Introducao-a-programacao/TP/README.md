@@ -21,7 +21,7 @@ O jogo consiste em arrumar o tabuleiro de forma que fique na sequência de 1 a 8
 2. Navegue até a pasta do TP.
    
 3. Compile o código:
-  ```bash
+   ```bash
    gcc -o jogo *.c -Wall
    ```
 
