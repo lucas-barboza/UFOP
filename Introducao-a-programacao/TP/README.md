@@ -9,11 +9,12 @@ O jogo consiste em arrumar o tabuleiro de forma que fique na sequência de 1 a 8
 * Linguagem C
 
 ## Objetivos:
-* Aplicar o conhecimento das principais funções em C.
+* Introduzir conceitos básicos de programação como variáveis, controle de fluxo, funções e manipulação de entradas/saídas.
 * Implementar o comando "salvar jogo" para manipular arquivos, permitindo que o jogador possa continuar jogando a qualquer hora sem perder o progresso.
 * Trabalhar com alocação de memória dinâmica.
 * Estilizar o jogo no terminal.
 * Criar um menu para o jogo.
+* Implementar lógicas de verificação e validação de entradas para garantir que o jogador insira apenas números válidos.
 
 ## Como Usar
 1. Clone o repositório.
