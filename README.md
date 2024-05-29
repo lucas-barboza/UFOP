@@ -14,6 +14,11 @@ Cada pasta representa uma disciplina diferente e inclui projetos, códigos-fonte
 ### Disciplina: Introdução à Programação
 - **Projeto 1**: Implementação de um jogo simples em C.
 
+### Disciplina: Estrutura de Dados I
+- **Projeto 1**: Implementar uma solução recursiva para encontrar o caminho mais curto em um labirinto.
+- **Projeto 2**: Implementar uma solução que utiliza filas e pilhas para determinar a rota de saída em um labirinto.
+- **Projeto 3**: Implementar uma solução que utiliza Arvore para determinar a maior e a menor rota de saída em um labirinto.
+
 ## Tecnologias Utilizadas
 - Linguagens de Programação: C
 - Ferramentas: Git, Visual Studio Code
